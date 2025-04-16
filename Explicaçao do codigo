@@ -1,0 +1,30 @@
+#projeto python - Calculadora
+
+ESte projeto contém:
+- `meuscript.py`: Script principal em python
+- `executar.sh`: Script de execução automatizada
+- `README.md`: Documentação do projeto
+---
+
+## Como executar o arquivo `.sh`
+1. Abra o terminal na pasta do projeto
+2. De permissão de execução ao script:
+
+``bash
+chmod +x executar.sh
+
+Execute com:
+bash
+./executar.sh
+
+## Explicaçao do codigo pthon
+O script `meuscript.py` foi criado para [aqui voce coloca o que o codigo faz, ex: "ler dados de um arquivo.csv e gerar um resumo com estatiticas."].
+
+### Principais funcionalidades:
+- Le os dados de entrada [ex: de um arquivo]
+- processa os dados e faz [ex: cálculos, filtragem, organização]
+- Exibe ou salva os resultados [ex: no terminal, em um arquivo, etc.]
+
+### Como executar o código:
+```bash
+python3 meuscript.py
